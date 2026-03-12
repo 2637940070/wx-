@@ -1,0 +1,22 @@
+# Python 字节码缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 分发/打包
+*.egg-info/
+dist/
+build/
+
+# 日志文件（保留目录但忽略日志内容）
+logs/*.log
+
+# 操作系统文件
+.DS_Store
+Thumbs.db

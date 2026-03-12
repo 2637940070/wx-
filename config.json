@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "keyword": "你好",
+      "reply": "你好！有什么可以帮助你的吗？",
+      "enabled": true
+    },
+    {
+      "keyword": "价格",
+      "reply": "请稍等，我马上为您查询价格信息。",
+      "enabled": true
+    },
+    {
+      "keyword": "在吗",
+      "reply": "在的，请问有什么需要？",
+      "enabled": true
+    }
+  ],
+  "scan_interval": 3,
+  "cooldown": 30,
+  "send_delay": 0.5
+}
